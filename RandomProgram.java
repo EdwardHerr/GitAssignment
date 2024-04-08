@@ -1,9 +1,8 @@
 import java.util.Arrays;
-class HelloWorld {
+class GitAssignment {
     public static void main(String[] args) {
         System.out.println("Hello, Git"); 
 
-        
         String randomWords[] = { "lebron", "test", "amazing", "two words" };
 
         Arrays.sort(randomWords);
