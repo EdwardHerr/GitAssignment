@@ -16,7 +16,7 @@ class GitAssignment {
         Arrays.sort(randomWords);
         System.out.println("\nThe sorted version of the string array is: ");
         for (String list: randomWords) {
-            System.out.println(list + " ");
+            System.out.println(list + " "); //testcomment
         }
  
     }
